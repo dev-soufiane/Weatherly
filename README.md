@@ -9,7 +9,7 @@ Weatherly keeps you informed about the weather, empowering you to navigate your 
 Welcome to Weatherly! Below are some useful links to get started:
 
 - **Deployed Site:** [Weatherly App](https://dev-soufiane.github.io/Weatherly/)
-- **Final Project Blog Article:** [Read here](#)
+- **Final Project Blog Article:** [Read here](https://dev-soufiane.github.io/Weatherly-landingPage/)
 - **Author(s) LinkedIn:** [Soufiane Ait Aomar](https://linkedin.com/in/soufiane-aitaomar)
 
 ## Installation
